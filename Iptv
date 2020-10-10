@@ -206,3 +206,20 @@ https://feplayer.net/file/1/41475a7e76934c416d33d64c61ff4759/femaster.m3u8
 https://feplayer.net/file/1/861ac7f596d56b6712ba0dc67ad41e97/femaster.m3u8
 #EXTINF:-1 group-title="Netflix", ปฏิบัติการพิฆาตสมรภูมิเดือด
 https://cdn.we-play.tv/movies/4K/smil:Lone.Survivor.2013.smil/content/Lone.Survivor.2013.mp4_audiochunk.m3u8?nimblesessionid=4357635
+
+#EXTINF:-1 group-title="MOVIE LIVE"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png",FWMOV
+https://www.fwiptv.cc/player_demo.php?channel=89782
+#EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png",FWSOV
+https://www.fwiptv.cc/player_demo.php?channel=89781
+#EXTINF:-1 group-title='MOVIE LIVE'tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuIrf.png",FWTOON
+https://www.fwiptv.cc/player_demo.php?channel=89780
+#EXTINF:-1 group-title='TV Digtal'tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeMX6WDf9PxYAB6TVNFRN8zsOUOq1hpp4wGw&usqp=CAU",แสงจันทร์
+https://www.fwiptv.cc/player_demo.php?channel=60254
+#EXTINF:-1 group-title='TV Digtal'tvg-logo="https://sv1.picz.in.th/images/2020/06/16/qJLsB8.jpg",ถิ่นใต้
+https://www.fwiptv.cc/player_demo.php?channel=61235
+#EXTINF:-1 group-title='TV Digtal'tvg-logo="http://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",มังกร
+http://dootvthai-hd.com/cmd/api/true/Mangorn/playlist.m3u8
+#EXTINF:-1 group-title='TV Digtal'tvg-logo="https://images.ufoiptv.com/channels/hd-zeenung.jpg",Zeeหนัง
+http://dootvthai-hd.com/cmd/api/true/Zee-Nung/playlist.m3u8
+#EXTINF:-1 group-title='TV Digtal'tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",Thaiไทย
+http://dootvthai-hd.com/cmd/api/true/thaithai/playlist.m3u8
