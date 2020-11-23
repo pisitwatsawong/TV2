@@ -463,6 +463,7 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-40/The.Las
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-28/Bloodshot.2020.1080p.web-dl.thr-4K.mp4/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/07/The-Huntsman-Winter%E2%80%99s-War-683x1024.jpg" , The Huntsman Winters War พรานป่าและราชินีน้ำแข็ง (2016)
 http://128.199.180.179:8080/hls/2016M%20The%20Huntsman%20Winters%20War.mp4/index.m3u8
 
@@ -482,7 +483,8 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-43/The.Pro
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/930a70f5dd815b386681a1145e8e3aef.jpg" , สงครามผงาดบัลลังก์จิ๋นซี
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/peenak2-402x603.jpg" , พี่นาค 2
+http://128.199.180.179:8080/hls/2020M%20Pee%20Nak.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/DrPEd3m0OdaEJtdLj1QOXbyfLuH0Ir5aa.jpg" , ไทบ้านเดอะชี่รี่ 2.2
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-7/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C_2.mp4/playlist.m3u8
