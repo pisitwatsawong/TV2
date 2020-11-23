@@ -1040,6 +1040,19 @@ http://210.210.155.35/uq2663/h/h05/01.m3u8
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group-title="ETC",E23
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?olympicchannel.m3u
+
+EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/86ba94e15e8d7fc17439d736a7fd1494Untitled-1.jpg" , Mulan 2020 มู่หลาน
+http://128.199.180.179:8080/hls/2020M%20Extraction.mp4/index.m3u8
+ 
+EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/86ba94e15e8d7fc17439d736a7fd1494Untitled-1.jpg" , Mulan 2020 มู่หลาน
+http://128.199.180.179:8080/hls/2020M%20Mulan.mp4/index.m3u8
+ 
+EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1059.jpg" , คืนผวาป่าไร้เงา (์NETFLIX)
+https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Nobody-Sleeps-in-the-Woods-Tonight/Nobody-Sleeps-in-the-Woods-Tonight-ST.mp4/index.m3u8
+ 
+EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
+https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
+ 
 #EXTINF:-1 group-title="Movie Hit"  tvg-logo="https://ok-th.com/uploads/video_thumb/241.jpg",ทรราชโค่นบัลลังก์ 
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/The_Treacherous_FHD.mp4/playlist.m3u8
  
@@ -1070,8 +1083,7 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-28/Bloodshot.
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/jpPRqUOO6m2lB3evemi0wu0z55y7AtyBad_Boys_For_Life.jpg" , The Bad Boys คู่หูขวางนรกตลอดกาล
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-28/Bad.Boys.for.Life.2020.1080p.mp4/playlist.m3u8
  
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/hpgArNqImvJ8u7xwsYbjKY35TGOcpCU1539400238.jpg" , 
-King Naresuan 6 ตำนานสมเด็จพระนเรศวรมหาราช ภาค 6 ตอน อวสานหงสา
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/hpgArNqImvJ8u7xwsYbjKY35TGOcpCU1539400238.jpg" , King Naresuan 6 ตำนานสมเด็จพระนเรศวรมหาราช ภาค 6 ตอน อวสานหงสา
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/6.MP4/playlist.m3u8
  
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/kZC4Dktzu547cxCixRX1VuuSy2ZeJC41539400293.jpg" , King Naresuan 5 ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๕ ยุทธหัตถี
@@ -1086,4 +1098,5 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Nar
 EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/COtregQliS91XTRm25cXU9SpYfNovWY1539400418.jpg" , King Naresuan 2 ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๒ ประกาศอิสรภาพ
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/2.MP4/playlist.m3u8
  
-EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/COtregQliS91XTRm25cXU9SpYfNovWY1539400418.jpg" , King Naresuan 1 2007 ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๑ องค์ประกันหงสา
+EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
+https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92
