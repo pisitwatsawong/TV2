@@ -412,7 +412,7 @@ http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",X-zyte
 http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True Film HD
-https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truefilmhd/chunks.m3u8?nimblesessionid=14105145&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjI2OjIwIFBNJmhhc2hfdmFsdWU9UVhrU055RXIxbFJVdnl3V1lCQklMQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True ThaiFilm 
 https://doomovielive.b-cdn.net/sd-thaifilm_480/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True asian series hd
@@ -428,7 +428,7 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV 2
 https://doomovielive.b-cdn.net/hd-warnertv_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Blue Ant Entertainment
-http://160.119.77.116:8081/iptv/hd-rtlcbs.stream/playlist.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/chunks.m3u8?nimblesessionid=14105492&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjI4OjQ5IFBNJmhhc2hfdmFsdWU9S2I1VjQ2UlhtU2pEM2lvc1JxMjdXQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",CHANNEL 8
 https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",TVB ไทย
