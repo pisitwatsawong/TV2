@@ -402,9 +402,9 @@ https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/sd-fox.png", Foxthai
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg", Foxfamily movie
-https://doomovielive.b-cdn.net/hd-foxfamily_720/index.m3u8
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg", Foxlife
-http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fox-life/chunks.m3u8?nimblesessionid=14104503&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjIxOjM5IFBNJmhhc2hfdmFsdWU9ME5qZFVQV1lBWE9kTmtENDNMbVJNZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg", Foxcrime
 http://160.119.77.116:8081/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg", AXN
