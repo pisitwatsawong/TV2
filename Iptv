@@ -432,8 +432,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/09/Barbie-Princess-Adventure.jpg" , Barbie Princess Adventure บาร์บี้ ภารกิจลับฉบับเจ้าหญิง (2020)
 http://128.199.180.179:8080/hls/2020M%20Barbie%20Princess%20Adventure.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/07/The-Huntsman-Winter%E2%80%99s-War-683x1024.jpg" , The Huntsman Winters War พรานป่าและราชินีน้ำแข็ง (2016)
-http://128.199.180.179:8080/hls/2016M%20The%20Huntsman%20Winters%20War.mp4/index.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
+https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/08/Ava.jpg" , Ava เอวา มาแล้วฆ่า (2020)
+http://128.199.180.179:8080/hls/2020M%20Ava.mp4/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.bombmovie.com/wp-content/uploads/2020/09/Black-Water-Abyss-203x300.jpg" , Black Water Abyss กระชากนรก โคตรไอ้เข้ (2020)
+http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/qBhLnj44ZT1ZC7dUlExvA4crrdief9udhaka-5e83c2c78c748.jpg" , คนห่ำภารกิจเดือด
 http://128.199.180.179:8080/hls/2020M%20Extraction.mp4/index.m3u8
@@ -446,6 +455,16 @@ https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Nobody-Sleeps-in-
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
 https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/ryNT4H1XKmu5SABjGTxl0sP8SDuqmHWaa.jpg" , The Last Thing He Wanted (2020) คำสั่งตาย
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-40/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/Ja9HE1hvFHOoNalsMcQEOQ8UNb1iDDGBloodshot.jpg" , Bloodshot จักรกลเลือดดุ HD 2020
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-28/Bloodshot.2020.1080p.web-dl.thr-4K.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/07/The-Huntsman-Winter%E2%80%99s-War-683x1024.jpg" , The Huntsman Winters War พรานป่าและราชินีน้ำแข็ง (2016)
+http://128.199.180.179:8080/hls/2016M%20The%20Huntsman%20Winters%20War.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movie Hit"  tvg-logo="https://ok-th.com/uploads/video_thumb/241.jpg",ทรราชโค่นบัลลังก์ 
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/The_Treacherous_FHD.mp4/playlist.m3u8
@@ -463,16 +482,11 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-43/The.Pro
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/930a70f5dd815b386681a1145e8e3aef.jpg" , สงครามผงาดบัลลังก์จิ๋นซี
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/ryNT4H1XKmu5SABjGTxl0sP8SDuqmHWaa.jpg" , The Last Thing He Wanted (2020) คำสั่งตาย
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-40/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/DrPEd3m0OdaEJtdLj1QOXbyfLuH0Ir5aa.jpg" , ไทบ้านเดอะชี่รี่ 2.2
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-7/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C_2.mp4/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/Ja9HE1hvFHOoNalsMcQEOQ8UNb1iDDGBloodshot.jpg" , Bloodshot จักรกลเลือดดุ HD 2020
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-28/Bloodshot.2020.1080p.web-dl.thr-4K.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/jpPRqUOO6m2lB3evemi0wu0z55y7AtyBad_Boys_For_Life.jpg" , The Bad Boys คู่หูขวางนรกตลอดกาล
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-28/Bad.Boys.for.Life.2020.1080p.mp4/playlist.m3u8
@@ -492,15 +506,5 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Nar
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/COtregQliS91XTRm25cXU9SpYfNovWY1539400418.jpg" , King Naresuan 2 ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๒ ประกาศอิสรภาพ
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/2.MP4/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
-https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/08/Ava.jpg" , Ava เอวา มาแล้วฆ่า (2020)
-http://128.199.180.179:8080/hls/2020M%20Ava.mp4/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.bombmovie.com/wp-content/uploads/2020/09/Black-Water-Abyss-203x300.jpg" , Black Water Abyss กระชากนรก โคตรไอ้เข้ (2020)
-http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
 
 
