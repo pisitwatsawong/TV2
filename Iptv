@@ -1052,7 +1052,7 @@ http://128.199.180.179:8080/hls/2020M%20Mulan.mp4/index.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1059.jpg" , คืนผวาป่าไร้เงา (์NETFLIX)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Nobody-Sleeps-in-the-Woods-Tonight/Nobody-Sleeps-in-the-Woods-Tonight-ST.mp4/index.m3u8
 
-EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
 https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
 
 #EXTINF:-1 group-title="Movie Hit"  tvg-logo="https://ok-th.com/uploads/video_thumb/241.jpg",ทรราชโค่นบัลลังก์ 
