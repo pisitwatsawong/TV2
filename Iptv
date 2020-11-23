@@ -1107,4 +1107,12 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Nar
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
 https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
 
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/08/Ava.jpg" , Ava เอวา มาแล้วฆ่า (2020)
+http://128.199.180.179:8080/hls/2020M%20Ava.mp4/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.bombmovie.com/wp-content/uploads/2020/09/Black-Water-Abyss-203x300.jpg" , Black Water Abyss กระชากนรก โคตรไอ้เข้ (2020)
+http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
+
 
