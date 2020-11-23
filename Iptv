@@ -1041,6 +1041,11 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group-title="ETC",E23
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?olympicchannel.m3u
 
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/09/Barbie-Princess-Adventure.jpg" , Barbie Princess Adventure บาร์บี้ ภารกิจลับฉบับเจ้าหญิง (2020)
+http://128.199.180.179:8080/hls/2020M%20Barbie%20Princess%20Adventure.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/07/The-Huntsman-Winter%E2%80%99s-War-683x1024.jpg" , The Huntsman Winters War พรานป่าและราชินีน้ำแข็ง (2016)
+http://128.199.180.179:8080/hls/2016M%20The%20Huntsman%20Winters%20War.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/qBhLnj44ZT1ZC7dUlExvA4crrdief9udhaka-5e83c2c78c748.jpg" , คนห่ำภารกิจเดือด
 http://128.199.180.179:8080/hls/2020M%20Extraction.mp4/index.m3u8
