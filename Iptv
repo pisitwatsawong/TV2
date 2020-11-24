@@ -416,13 +416,13 @@ http://160.119.77.116:8081/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",X-zyte
 http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True Film HD
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truefilmhd/chunks.m3u8?nimblesessionid=14105145&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjI2OjIwIFBNJmhhc2hfdmFsdWU9UVhrU055RXIxbFJVdnl3V1lCQklMQT09JnZhbGlkbWludXRlcz0yMA==
-
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Film HD 2
+https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Film HD
+https://r4https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True asian series hd
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True thai flim
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truethaifilm/chunks.m3u8?nimblesessionid=14108219&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjQyOjU4IFBNJmhhc2hfdmFsdWU9My91QTR5WU1nVFlPU2ZyekVvVUlMQT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Cinemax
 http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HIT
