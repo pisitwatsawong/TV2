@@ -537,3 +537,7 @@ http://128.199.180.179:8080/hls/2012M%20Taken%202.mp4/index.m3u8
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/b33467f4842a75e5f9ca15e54840d7e2Untitled-1.jpg" , Taken 3 ฅนคมล่าไม่ยั้ง (2015)
 http://128.199.180.179:8080/hls/2015M%20Taken%203.mp4/index.m3u8
+
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/299512093bc2888996e11e33c466c16bUntitled-1.jpg" , Train to Busan ด่วนนรก ซอมบี้คลั่ง (2016)
+http://128.199.180.179:8080/hls/2016M%20Train%20to%20Busan.mp4/index.m3u8
