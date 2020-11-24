@@ -447,6 +447,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/8e4c4f94559929cdee07b585c60d742422.jpg" , Barbie Dolphin Magic (2017) บาร์บี้ โลมา มหัศจรรย์ (2017)
+http://128.199.89.83:8080/hls/2017M%20Barbie%20Dolphin%20Magic%20.mp4/index.m3u8
+
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/d40e390c554549245ce86070aa56bb33Wonder-Park.jpg" , Wonder Park (2019)
 http://159.65.4.80:8080/hls/7Wonder%20Park%20(2019).mp4/index.m3u8
 
