@@ -528,5 +528,12 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Nar
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/COtregQliS91XTRm25cXU9SpYfNovWY1539400418.jpg" , King Naresuan 2 ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๒ ประกาศอิสรภาพ
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/2.MP4/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/2dff3e893136ac90aeea971995ecaa3bUntitled-1.jpg" , Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน (2019)
+http://128.199.89.83:8080/hls/2013M%20Man%20of%20Steel.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/c39cbc8fbcab8aead0aa4cc14b043daeUntitled-1.jpg" , Taken 2 ฅนคม ล่าไม่ยั้ง
+http://128.199.180.179:8080/hls/2012M%20Taken%202.mp4/index.m3u8
 
 
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/b33467f4842a75e5f9ca15e54840d7e2Untitled-1.jpg" , Taken 3 ฅนคมล่าไม่ยั้ง (2015)
+http://128.199.180.179:8080/hls/2015M%20Taken%203.mp4/index.m3u8
