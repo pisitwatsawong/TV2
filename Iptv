@@ -204,12 +204,17 @@ https://ip2121.com/web/truepremier4/playlist.m3u8
 https://ip2121.com/web/truepremier5/playlist.m3u8
 
 
-
-
-
-
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",True EPL HD1
 https://r3-sn-5fo-c37ed5.googleuservideo.com:443/thai88hd_m1/trueepl1_480p/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg", AIS Beinsport 1
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein1/chunks.m3u8?nimblesessionid=14226831&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCAxMjo1Mzo1OSBQTSZoYXNoX3ZhbHVlPVgyS09nSVNRU3g3R2M3WmEwWXR3VUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg", AIS Beinsport 2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/chunks.m3u8?nimblesessionid=14228122&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCAxMjo1ODoyMyBQTSZoYXNoX3ZhbHVlPUE1cnNPcGIvUWV1OTdDWi90RC9RTUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
