@@ -425,8 +425,12 @@ https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truethaifilm/chunks.m3u8?nimblesessionid=14108219&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjQyOjU4IFBNJmhhc2hfdmFsdWU9My91QTR5WU1nVFlPU2ZyekVvVUlMQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Cinemax
 http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HIT
+https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HIT movie
+https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV 2
@@ -444,10 +448,10 @@ https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Mono Plus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO(TH)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO hit
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
