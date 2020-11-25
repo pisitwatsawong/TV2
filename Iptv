@@ -560,6 +560,15 @@ http://128.199.180.179:8080/hls/2015M%20Taken%203.mp4/index.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/299512093bc2888996e11e33c466c16bUntitled-1.jpg" , ด่วนนรก ซอมบี้คลั่ง (2016)
 http://128.199.180.179:8080/hls/2016M%20Train%20to%20Busan.mp4/index.m3u8
 
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/IVD6tSrksTSQSYtArJOLYQZs1R1bPlOaa.jpg" , The Transporter ขนระห่ำไปบี้นรก
+https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-45/The.Transporter.1[2002].mp4/chunk.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Movie 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gpOWj7YWI1zb3IN8LXtnVCCCaTBusg7ovg&usqp=CAU",Alligator
 http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
  
