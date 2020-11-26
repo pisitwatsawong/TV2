@@ -425,6 +425,12 @@ https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8
 https://r4https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True asian series hd
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIE TV​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXaiOevvY8AW2hSewrLESmlLHeT3NK_nj_g&usqp=CAU", TRUE​ FILM​
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE TV​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI​ FILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Cinemax
 http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
