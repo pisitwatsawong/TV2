@@ -607,3 +607,10 @@ http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
  
 #EXTINF:-1 group-title="Movie 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVhbYEvv6uPj6wRaZ8-ZVFOE21RXDaJjjxA&usqp=CAU",Bumblebee
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/3da1f70353f2d6f283acdbc6bd873a2c/3da1f70353f2d6f283acdbc6bd873a2c.m3u8
+
+#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2b78a265d4f2761dc232beeb377a3814.jpg", Pirates of the Caribbean คืนชีพกองทัพโจรสลัดสยองโลก
+https://cdn.livedoomovies.com/hls/0e963402f63ab85ce67ac2ef4f2a672c/0e963402f63ab85ce67ac2ef4f2a672c.m3u8
+
+
+#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/321442a822fdd146d8de75d3913eab94.jpg", อควาแมน เจ้าสมุทร
+https://cdn.livedoomovies.com/hls/390dc3c18de0915c90a435439486f3cd/390dc3c18de0915c90a435439486f3cd.m3u8
