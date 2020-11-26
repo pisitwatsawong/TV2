@@ -302,6 +302,9 @@ http://160.119.77.116:8081/iptv/uk-racing.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",Laliga
 https://cdn2.dailysport.pw/1/1.m3u8?Homplex
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",Laliga 2
+http://bestqualityservice.ddns.net:8080/live/ServLinea866/JQFeBXOpca/122234.m3u8
+
 
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", Discovery Asia
 http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
