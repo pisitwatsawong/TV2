@@ -1,4 +1,4 @@
-#EXTM3U 
+EXTM3U 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
@@ -419,18 +419,13 @@ http://160.119.77.116:8081/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",X-zyte
 http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Film HD 2
-https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Film HD
-https://r4https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",True asian series hd
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXaiOevvY8AW2hSewrLESmlLHeT3NK_nj_g&usqp=CAU", TRUE​ FILM​
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXaiOevvY8AW2hSewrLESmlLHeT3NK_nj_g&usqp=CAU", TRUE​ FILM​
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI​ FILM
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI​ FILM
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Cinemax
 http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
@@ -438,12 +433,11 @@ http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
 https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HIT movie
 https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV 2
-https://doomovielive.b-cdn.net/hd-warnertv_720/index.m3u8
+
+
+
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Blue Ant Extreme
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/chunks.m3u8?nimblesessionid=14105492&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjI4OjQ5IFBNJmhhc2hfdmFsdWU9S2I1VjQ2UlhtU2pEM2lvc1JxMjdXQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Blue Ant Entertainment
@@ -466,112 +460,67 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg" , มาเลฟิเซนต์ (2019 นางพญาปีศาจ
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/22209704fa945a99f2853c811992e957/22209704fa945a99f2853c811992e957.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/49ad86ed7eb0e1e4a3a3295d58aa2bcd.jpg" , โฟรเซ่น 2 ผจญภัยปริศนาราชินีหิมะ
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/e891f5e3cd776c7063b20d29f39e9272/e891f5e3cd776c7063b20d29f39e9272.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://bgthmovie.com/images/movie/lVtuGiIxIPgcnux2d8DlYWAvfyPqwA2aa.jpg" , เอโนลา โฮล์มส์
 https://cdn-21.vip-streaming.com:30443/bgthmovie/3-ssd/movie/store-44/Enola.Holmes.2020.1080p.NF.TH.mp4/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/8e4c4f94559929cdee07b585c60d742422.jpg" , บาร์บี้ โลมา มหัศจรรย์ (2017)
 http://128.199.89.83:8080/hls/2017M%20Barbie%20Dolphin%20Magic%20.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/d40e390c554549245ce86070aa56bb33Wonder-Park.jpg" , Wonder Park (2019)
-http://159.65.4.80:8080/hls/7Wonder%20Park%20(2019).mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/09/Barbie-Princess-Adventure.jpg" , บาร์บี้ ภารกิจลับฉบับเจ้าหญิง (2020)
 http://128.199.180.179:8080/hls/2020M%20Barbie%20Princess%20Adventure.mp4/index.m3u8
-
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/d40e390c554549245ce86070aa56bb33Wonder-Park.jpg" , Wonder Park (2019)
+http://159.65.4.80:8080/hls/7Wonder%20Park%20(2019).mp4/index.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" ,ผ่ายุทธภูมิล้อมตาย (2020)
 https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/08/Ava.jpg" , Ava เอวา มาแล้วฆ่า (2020)
-http://128.199.180.179:8080/hls/2020M%20Ava.mp4/index.m3u8
-
-
-
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/b22a1622cd06b16ace33665d31b39cc9/b22a1622cd06b16ace33665d31b39cc9.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.bombmovie.com/wp-content/uploads/2020/09/Black-Water-Abyss-203x300.jpg" , กระชากนรก โคตรไอ้เข้ (2020)
-http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
-
-
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/82f264784ac1f79bbc4e032564063ba2/82f264784ac1f79bbc4e032564063ba2.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/qBhLnj44ZT1ZC7dUlExvA4crrdief9udhaka-5e83c2c78c748.jpg" , คนห่ำภารกิจเดือด
-http://128.199.180.179:8080/hls/2020M%20Extraction.mp4/index.m3u8
-
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/a57ae31a6489510547b98fa52d4fafb8/a57ae31a6489510547b98fa52d4fafb8.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/86ba94e15e8d7fc17439d736a7fd1494Untitled-1.jpg" , Mulan 2020 มู่หลาน
-http://128.199.180.179:8080/hls/2020M%20Mulan.mp4/index.m3u8
-
+https://cdn.livedoomovies.com/hls/db9be175c8d725f1ff1141b2d74ca111/db9be175c8d725f1ff1141b2d74ca111.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1059.jpg" , คืนผวาป่าไร้เงา (์NETFLIX)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Nobody-Sleeps-in-the-Woods-Tonight/Nobody-Sleeps-in-the-Woods-Tonight-ST.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1115.jpg" , The Outpost ผ่ายุทธภูมิล้อมตาย (2020)
-https://cdn.livedoomovies.com/playlist/0d68f702c151ce3c7d3052c9548a7a92/1606117107799.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/ryNT4H1XKmu5SABjGTxl0sP8SDuqmHWaa.jpg" , คำสั่งตาย
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-40/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/Ja9HE1hvFHOoNalsMcQEOQ8UNb1iDDGBloodshot.jpg" , จักรกลเลือดดุ HD 2020
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-28/Bloodshot.2020.1080p.web-dl.thr-4K.mp4/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.newmovie-hd.org/wp-content/uploads/2020/07/The-Huntsman-Winter%E2%80%99s-War-683x1024.jpg" ,พรานป่าและราชินีน้ำแข็ง (2016)
 http://128.199.180.179:8080/hls/2016M%20The%20Huntsman%20Winters%20War.mp4/index.m3u8
-
 #EXTINF:-1 group-title="Movie Hit"  tvg-logo="https://ok-th.com/uploads/video_thumb/241.jpg",ทรราชโค่นบัลลังก์ 
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/The_Treacherous_FHD.mp4/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://static.posttoday.com/media/content/2018/09/13/6061B04691A04586A481BAEB21330146.jpg" , นาคี2
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-8/Nakee.2.2018.1080p.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.212hd.com/wp-content/uploads/2020/11/The-Outpost-2020-203x300.jpg.webp" , Tผ่ายุทธภูมิล้อมตาย
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-46/The.Outpost.2020.V2.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://203.144.224.125/dvdcover/Gang29/722537_f.jpg" , คนม้าบิน (2006)
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-43/The.Promise.1080p.TH.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/930a70f5dd815b386681a1145e8e3aef.jpg" , สงครามผงาดบัลลังก์จิ๋นซี
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/peenak2-402x603.jpg" , พี่นาค 2
-http://128.199.180.179:8080/hls/2020M%20Pee%20Nak.mp4/index.m3u8
-
+https://cdn.livedoomovies.com/hls/741149b841686b8125d3dcb83351fc1f/741149b841686b8125d3dcb83351fc1f.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/DrPEd3m0OdaEJtdLj1QOXbyfLuH0Ir5aa.jpg" , ไทบ้านเดอะชี่รี่ 2.2
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-7/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C_2.mp4/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/jpPRqUOO6m2lB3evemi0wu0z55y7AtyBad_Boys_For_Life.jpg" ,คู่หูขวางนรกตลอดกาล
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-28/Bad.Boys.for.Life.2020.1080p.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/hpgArNqImvJ8u7xwsYbjKY35TGOcpCU1539400238.jpg" ,พระนเรศวรมหาราช ภาค 6 ตอน อวสานหงสา
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/6.MP4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/kZC4Dktzu547cxCixRX1VuuSy2ZeJC41539400293.jpg" , พระนเรศวรมหาราช ภาค ๕ ยุทธหัตถี
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/5.MP4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/vRJ0C8IIu6mepTYVAZvRrJ51MigpVrP1539400326.jpg" , พระนเรศวรมหาราช ภาค ๔ ศึกนันทบุเรง
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/4.MP4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/Ju5fGQJ94W5tv5coNXClWMrny8nkZ821539400373.jpg" , พระนเรศวรมหาราช ภาค ๓ ยุทธนาวี
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/3.MP4/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/COtregQliS91XTRm25cXU9SpYfNovWY1539400418.jpg" , พระนเรศวรมหาราช ภาค ๒ ประกาศอิสรภาพ
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/King-Naresuan/2.MP4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/2dff3e893136ac90aeea971995ecaa3bUntitled-1.jpg" , บุรุษเหล็กซูเปอร์แมน (2019)
 http://128.199.89.83:8080/hls/2013M%20Man%20of%20Steel.mp4/index.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/c39cbc8fbcab8aead0aa4cc14b043daeUntitled-1.jpg" , Taken 2 ฅนคม ล่าไม่ยั้ง
-http://128.199.180.179:8080/hls/2012M%20Taken%202.mp4/index.m3u8
-
-
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/b33467f4842a75e5f9ca15e54840d7e2Untitled-1.jpg" , Taken 3 ฅนคมล่าไม่ยั้ง (2015)
-http://128.199.180.179:8080/hls/2015M%20Taken%203.mp4/index.m3u8
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/e3552975afb76368ee9f4eacfe615dd3/e3552975afb76368ee9f4eacfe615dd3.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/c39cbc8fbcab8aead0aa4cc14b043daeUntitled-1.jpg" , Taken 2 ฅนคม ล่าไม่ยั้ง
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/52550b91850966ae9a12d90b254ae2ff/52550b91850966ae9a12d90b254ae2ff.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gpOWj7YWI1zb3IN8LXtnVCCCaTBusg7ovg&usqp=CAU",Alligator
+http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVhbYEvv6uPj6wRaZ8-ZVFOE21RXDaJjjxA&usqp=CAU",Bumblebee
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/3da1f70353f2d6f283acdbc6bd873a2c/3da1f70353f2d6f283acdbc6bd873a2c.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/e/ec8467e056c8b1cbb759a04966f1ec2a.jpg",รักสามเศร้าสาวออฟไลน์
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/9de558a0bb96609133949a5377460ea5/9de558a0bb96609133949a5377460ea5.m3u8
 
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/299512093bc2888996e11e33c466c16bUntitled-1.jpg" , ด่วนนรก ซอมบี้คลั่ง (2016)
-http://128.199.180.179:8080/hls/2016M%20Train%20to%20Busan.mp4/index.m3u8
 
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/IVD6tSrksTSQSYtArJOLYQZs1R1bPlOaa.jpg" , The Transporter ขนระห่ำไปบี้นรก
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-45/The.Transporter.1[2002].mp4/chunk.m3u8
 
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/PvaZRioY7UJHmTTSBW12S7DuxP3uGqMaa.jpg" , ฮอตนักจับไม่อยู่ ปี1 ep1
@@ -602,24 +551,7 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/series-3/Too.Hot.To.Ha
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/PvaZRioY7UJHmTTSBW12S7DuxP3uGqMaa.jpg" , ฮอตนักจับไม่อยู่ ปี1 ep8 (จบ)
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/series-3/Too.Hot.To.Handle/S01/Too.Hot.To.Handle.S01E07.1080p.mp4/chunk.m3u8
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg" , มาเลฟิเซนต์ (2019 นางพญาปีศาจ
-https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/22209704fa945a99f2853c811992e957/22209704fa945a99f2853c811992e957.m3u8
-
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/49ad86ed7eb0e1e4a3a3295d58aa2bcd.jpg" , โฟรเซ่น 2 ผจญภัยปริศนาราชินีหิมะ
-https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/e891f5e3cd776c7063b20d29f39e9272/e891f5e3cd776c7063b20d29f39e9272.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gpOWj7YWI1zb3IN8LXtnVCCCaTBusg7ovg&usqp=CAU",Alligator
-http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
- 
-#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVhbYEvv6uPj6wRaZ8-ZVFOE21RXDaJjjxA&usqp=CAU",Bumblebee
-https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/3da1f70353f2d6f283acdbc6bd873a2c/3da1f70353f2d6f283acdbc6bd873a2c.m3u8
-
-#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2b78a265d4f2761dc232beeb377a3814.jpg", Pirates of the Caribbean คืนชีพกองทัพโจรสลัดสยองโลก
-https://cdn.livedoomovies.com/hls/0e963402f63ab85ce67ac2ef4f2a672c/0e963402f63ab85ce67ac2ef4f2a672c.m3u8
-
-
-#EXTINF:-1 group-title="Movie 4K" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/321442a822fdd146d8de75d3913eab94.jpg", อควาแมน เจ้าสมุทร
-https://cdn.livedoomovies.com/hls/390dc3c18de0915c90a435439486f3cd/390dc3c18de0915c90a435439486f3cd.m3u8
