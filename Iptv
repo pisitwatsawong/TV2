@@ -518,7 +518,12 @@ http://128.199.180.179:8080/hls/2020M%20Black%20Water%20Abyss%20.mp4/index.m3u8
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/3da1f70353f2d6f283acdbc6bd873a2c/3da1f70353f2d6f283acdbc6bd873a2c.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/e/ec8467e056c8b1cbb759a04966f1ec2a.jpg",รักสามเศร้าสาวออฟไลน์
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/9de558a0bb96609133949a5377460ea5/9de558a0bb96609133949a5377460ea5.m3u8
-
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/542c6ddf34067a6c23ccf14858f75981.jpg", โจ๊กเกอร์
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/3008478401fb1baccf0edca5201fe243/3008478401fb1baccf0edca5201fe243.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/fd072415d0410330b5d64708f192d6fe.jpg", John Wick Chapter 3 Parabellum
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/04f98ba0a20e13e407650db4e0d37f0a/04f98ba0a20e13e407650db4e0d37f0a.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/cf59932a6a8f67abbc8b2a342a39e040.png", คนเหล็ก 6 วิกฤตชะตาโลก
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8c2813c8b043b4823558cfa496213b46/8c2813c8b043b4823558cfa496213b46.m3u8
 
 
 
