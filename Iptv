@@ -497,7 +497,7 @@ https://cdn-21.vip-streaming.com:30443/freemovie-4k/2-ssd/movie/store-4/The_Trea
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://static.posttoday.com/media/content/2018/09/13/6061B04691A04586A481BAEB21330146.jpg" , นาคี2
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/2654827a4a03b42d418d247f7f6ec1ca/2654827a4a03b42d418d247f7f6ec1ca.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://203.144.224.125/dvdcover/Gang29/722537_f.jpg" , คนม้าบิน (2006)
-https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/movie/store-43/The.Promise.1080p.TH.mp4/playlist.m3u8
+https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-43/The.Promise.1080p.TH.mp4/chunk.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/930a70f5dd815b386681a1145e8e3aef.jpg" , สงครามผงาดบัลลังก์จิ๋นซี
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/peenak2-402x603.jpg" , พี่นาค 2
@@ -540,11 +540,16 @@ https://cdn.livedoomovies.com/hls/3e7163cb9c9797ece2f0b6241c0e28dd/3e7163cb9c979
 https://cdn.livedoomovies.com/hls/a755ed760ff8ee7570874fdad21f23eb/a755ed760ff8ee7570874fdad21f23eb.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/22f7015c4e3c700f0c578d7149e827b0.jpg", ทรานส์ฟอร์มเมอร์ส 5: อัศวินรุ่นสุดท้าย
 https://cdn.livedoomovies.com/hls/04f50b535beb19a50cae3f9cb73faa48/04f50b535beb19a50cae3f9cb73faa48.m3u8
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/723199205156ac97c6549fccbb83842a.jpg", ANNA - สวย...สะบัด สังหาร
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/723199205156ac97c6549fccbb83842a.jpg", ANNA - สวย สะบัด สังหาร
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/e58b5452ee0b1cfc1f13dd537fd739b9/e58b5452ee0b1cfc1f13dd537fd739b9.m3u8
-
-
-
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI3MTUwNzM5MV5BMl5BanBnXkFtZTcwNzczMDIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg", Elektra
+https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-47/Elektra[2005].mp4/chunk.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.ipplaybox.com/images/movie/9ZLHY59Yqa7BWmlAF733FmGf98pn4jRm5553_H3o78Y0Fri112304.jpg", The Room ห้องขอหลอน
+https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-37/The.Room.2019.1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.ipplaybox.com/images/movie/t0oT9oJvbQA2GjXdrWfQfIZOT3BQp3M.jpg", Ironclad ทัพเหล็กโค่นอํานาจ
+https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-47/Ironclad[2011].mp4/chunk.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.ipplaybox.com/images/movie/lPRiq0buFDZunI1i3UbqTedNnL9xrJLm4024_lMnqjqvThu61440.jpg",Deadpool เดดพูล
+https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-28/Deadpool.2016.x264.1080p.Thai.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/PvaZRioY7UJHmTTSBW12S7DuxP3uGqMaa.jpg" , ฮอตนักจับไม่อยู่ ปี1 ep1
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/series-3/Too.Hot.To.Handle/S01/Too.Hot.To.Handle.S01E01.1080p.mp4/chunk.m3u8
