@@ -483,7 +483,7 @@ https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.lived
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie222hd.com/wp-content/uploads/qBhLnj44ZT1ZC7dUlExvA4crrdief9udhaka-5e83c2c78c748.jpg" , คนห่ำภารกิจเดือด
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/a57ae31a6489510547b98fa52d4fafb8/a57ae31a6489510547b98fa52d4fafb8.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="http://www.bg-thmovie.com/public/images/upload/movie/86ba94e15e8d7fc17439d736a7fd1494Untitled-1.jpg" , Mulan 2020 มู่หลาน
-https://movie2o.com/hls/a25efa63a36bb1392f90e97296d72baa/a25efa63a36bb1392f90e97296d72baa.m3u8
+https://cdn.livedoomovies.com/hls/aad94a848697429544a85c1dc76c21e6/aad94a848697429544a85c1dc76c21e6.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://movie285.com/wp-content/uploads/2020/11/p1059.jpg" , คืนผวาป่าไร้เงา (์NETFLIX)
 https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Nobody-Sleeps-in-the-Woods-Tonight/Nobody-Sleeps-in-the-Woods-Tonight-ST.mp4/index.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/ryNT4H1XKmu5SABjGTxl0sP8SDuqmHWaa.jpg" , คำสั่งตาย
@@ -550,6 +550,32 @@ https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-37/The.Room.2
 https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-47/Ironclad[2011].mp4/chunk.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.ipplaybox.com/images/movie/lPRiq0buFDZunI1i3UbqTedNnL9xrJLm4024_lMnqjqvThu61440.jpg",Deadpool เดดพูล
 https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-28/Deadpool.2016.x264.1080p.Thai.mp4/chunk.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/8/87843d9aff7691d2d6358523c3b4f704.jpg", The Eight Hundred - นักรบ 800
+https://cdn.livedoomovies.com/hls/646569d176e0e080efabf33d92ef1cbe/646569d176e0e080efabf33d92ef1cbe.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/493e3988277823d691f571d80319e717.jpg", The New Mutants
+https://cdn.livedoomovies.com/hls/66a13e50f85e6a8fe485daf6ceb45247/66a13e50f85e6a8fe485daf6ceb45247.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f1df52726fe693277336d37bced44c99.jpg",  Cosmoball - เกมผ่าจักรวาล
+https://cdn.livedoomovies.com/hls/5955eaab211341109ced64435b977d54/5955eaab211341109ced64435b977d54.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/7d24113c5e5bfaf7317eb6627708d859.jpg",  กลับมาเยี่ยมผี
+https://cdn.livedoomovies.com/hls/644b81ece2f1948dd8edb670d20169ea/644b81ece2f1948dd8edb670d20169ea.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b930af3c251ece2b8b81188a58d77922.jpg", พินอคคิโอ
+https://cdn.livedoomovies.com/hls/490fc4a720c28f86ae19a9600f8d636a/490fc4a720c28f86ae19a9600f8d636a.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/ba913111d5cd29cfd0723d1f42f5bafa.jpg",  Tesla - เทสลา คนล่าอนาคต
+https://cdn.livedoomovies.com/hls/f3f486301ee6ba95ba7c9719b70b7ced/f3f486301ee6ba95ba7c9719b70b7ced.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/a/acb2f935c81d7c19dbbe0b6a42f5918a.jpg",  หลอน ย้อน โลก
+https://cdn.livedoomovies.com/hls/9f5f7c96aedac82eb545c47e96f9d4fd/9f5f7c96aedac82eb545c47e96f9d4fd.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/06313624a676e645846145e907497e6b.jpg",  Malasana 32-ย่านผีอยู่
+https://cdn.livedoomovies.com/hls/9ba7648ea4a68fcdb5ea15fb54c66a19/9ba7648ea4a68fcdb5ea15fb54c66a19.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/8/84ce25f965fcf8e543035ab486853f81.jpg",  Special Actors - เล่นใหญ่ ใจเกินร้อย
+https://cdn.livedoomovies.com/hls/fd628807f82401f801c9ec3a85993498/fd628807f82401f801c9ec3a85993498.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/917ae1cb6493229f664df31175ccf4a1.jpg",  White Snake - ตำนาน นางพญางูขาว  
+https://cdn.livedoomovies.com/hls/b15879fa269fa406f344929951e5bf78/b15879fa269fa406f344929951e5bf78.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/798e1fad4938b138e997d8bc857c9cd1.jpg",  The Bridge Curse
+https://cdn.livedoomovies.com/hls/c38d13ad93ab65f8f2da5038f35de601/c38d13ad93ab65f8f2da5038f35de601.m3u8
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="
+
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="
+
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://freemovie-4k.com/images/movie/PvaZRioY7UJHmTTSBW12S7DuxP3uGqMaa.jpg" , ฮอตนักจับไม่อยู่ ปี1 ep1
 https://cdn-21.vip-streaming.com:30443/freemovie-4k/3-ssd/series-3/Too.Hot.To.Handle/S01/Too.Hot.To.Handle.S01E01.1080p.mp4/chunk.m3u8
