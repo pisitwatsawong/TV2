@@ -459,6 +459,28 @@ https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png", BOX​ FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiml8PYs8q0L4SVluf-9JCqIFNopSN3t7qrQ&usqp=CAU", SUN
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgToEpmOYJ6ZNlyExadUm8ftY2U3YOF1etNA&usqp=CAU", SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4Zd9suho35AC6mZqG-k0UkHjcx6klmlykQ&usqp=CAU",  TOON​ CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbqBGLBqXl2_vO49gih5Wcr_p5iRGMe3eejg&usqp=CAU",  TOONEE
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUt31gna-aWne7NwHXulvGl1yiJSQO1xL5g&usqp=CAU",  BOOMERANG
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3611161_ico.png?ts=1606365139",  SENOOK
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1olTW0fgsoSFuUyxvU81r19yA-dPWwd7leQ&usqp=CAU",  BABY​ TV
+http://160.119.77.116:8081/iptv/sd-babytv.stream/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0joXibcnCenGYApYhTmw00u-melAx4EYKw&usqp=CAU",  CN
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZoRGbGOl_URL39FstW9hworWFB2Rw2dl1A&usqp=CAU",  SPARKJUMP
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 
 
 
