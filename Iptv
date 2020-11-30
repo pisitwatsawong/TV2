@@ -481,6 +481,8 @@ http://160.119.77.116:8081/iptv/sd-babytv.stream/playlist.m3u8
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZoRGbGOl_URL39FstW9hworWFB2Rw2dl1A&usqp=CAU",  SPARKJUMP
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick JR
+http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 
 
 
