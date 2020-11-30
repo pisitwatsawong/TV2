@@ -485,7 +485,8 @@ http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2ee7d9182bd73e02899bad990d6dc1b1.jpg",มหาวิบัติเอเลี่ยนล้างโลก [พากย์ไทยโรง]
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/e9a9c6312e16b7a5c258d62a4b9f57d1/e9a9c6312e16b7a5c258d62a4b9f57d1.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg" , มาเลฟิเซนต์ (2019 นางพญาปีศาจ
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/22209704fa945a99f2853c811992e957/22209704fa945a99f2853c811992e957.m3u8
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/49ad86ed7eb0e1e4a3a3295d58aa2bcd.jpg" , โฟรเซ่น 2 ผจญภัยปริศนาราชินีหิมะ
@@ -610,7 +611,6 @@ https://cdn-21.vip-streaming.com:30443/ipplaybox/3-ssd/movie/store-37/Midway.201
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="https://www.ipplaybox.com/images/movie/SYUc63BrZtFKtb2s8kQ1liKBPwmo3Iiaa.jpg",  2012 วันสิ้นโลก
 https://cdn-21.vip-streaming.com:30443/ipplaybox/2-ssd/movie/store-15/2012-2009-TH-1080p.mp4/chunk.m3u8
 
-#EXTINF:-1 group-title="Movie Hit" tvg-logo="
 
 
 #EXTINF:-1 group-title="Movie Hit" tvg-logo="
