@@ -447,9 +447,9 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Blue Ant Extreme
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/chunks.m3u8?nimblesessionid=14105492&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjI4OjQ5IFBNJmhhc2hfdmFsdWU9S2I1VjQ2UlhtU2pEM2lvc1JxMjdXQT09JnZhbGlkbWludXRlcz0yMA==
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Blue Ant Entertainment
-http://160.119.77.116:8081/iptv/hd-rtlcbs.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Hi-Def1
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hi-def1/chunks.m3u8?nimblesessionid=14107596&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjM5OjM5IFBNJmhhc2hfdmFsdWU9L1c2NVdNRitiZmx5L0ZXbmdjbExtUT09JnZhbGlkbWludXRlcz0yMA==
