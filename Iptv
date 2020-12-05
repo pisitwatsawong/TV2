@@ -412,7 +412,7 @@ https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv17_2/index.m3u8
 
  
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-foxpremium.png", Foxmovie
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-foxaction.png", Foxaction
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/sd-fox.png", Foxthai
