@@ -95,7 +95,7 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Mono_Plus.png", TH: Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", TH: MONO29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061309.jpg",CNA
@@ -478,8 +478,8 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hi-def1/chunks.m3u8?n
 https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Mono Plus
-https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Mono 29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",HBO hit
