@@ -438,9 +438,9 @@ http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/sd-fox.png", Foxthai
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.moviemocha.com/wp-content/uploads/2020/01/hd-foxfamily-1.png", Foxfamily movie
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjgtWI-BLJ1Tgd9pkl0XelgiBN9JA_jcvVg&usqp=CAU", Foxfamily movie
 https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://bannerhttps://www.moviemocha.com/wp-content/uploads/2020/01/02_FOX_Life_HD_720p-1.png", Foxlife
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5mk55O1pNa4CI7FsJr1OYw7evij6PJwGCg&usqp=CAU", Foxlife
 http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://bannerhttps://www.doofree88.com/storage/live/aLDjKHW2HBKZvPOBGivsC40REeMZEZxHbeQRDFc8.jpg", Foxcrime
 http://160.119.77.116:8081/iptv/hd-foxcrimeeng.stream/playlist.m3u8
