@@ -1,47 +1,52 @@
 EXTM3U 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",CH3
-https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",CH5
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",MCOT
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU", CH 5
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
 http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",Thai PBS
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",Nation
-http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV 36
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM 25
-http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",Amarin 34
-http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE 31
-http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",MONO29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",true4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",Workpoint
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN16
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",CH8
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG", ALTV 4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png", TH:White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1  group-title="Digital.TV" tvg-logo="http://www.tsportschannel.com/Images/content/cover/1587960498670.jpg", T-Sport
-http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8
-#EXTINF:-1  group-title="Digital.TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
+http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
+http://183.182.100.184/live/mcothd/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
+http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
+http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​ 7
+http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="DLTV" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
