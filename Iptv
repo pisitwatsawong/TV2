@@ -462,7 +462,7 @@ http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",Cinemax
-http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
+https://dootvgun.com/hbotv/hbomax/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_hit.jpg",HIT
 https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_hit_mov.jpg",HIT movie
