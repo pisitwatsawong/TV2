@@ -147,53 +147,53 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1 (160)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",Premier HD1 (160)
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD2.png",Premier HD2 (160)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premier HD2 (160)
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD3.png",Premier HD3 (160)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premier HD3 (160)
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD4.png",Premier HD4 (160)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premier HD4 (160)
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD5.png",Premier HD5 (160)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premier HD5 (160)
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1 (PC)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",Premier HD1 (PC)
 https://la-4.cdn-streaming.live/live/truepremier1/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1 (dooball)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",Premier HD1 (dooball)
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD2.png",Premier HD2 (dooball)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premier HD2 (dooball)
 https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD3.png",Premier HD3 (dooball)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premier HD3 (dooball)
 http://ip2121.com:8081/at1/ENG3/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD4.png",Premier HD4 (dooball)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premier HD4 (dooball)
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD5.png",Premier HD5 (Chang)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premier HD5 (Chang)
 http://tv10.chang55.com/epl-5/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1  (103)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",Premier HD1  (103)
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD2.png",Premier HD2 (103)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premier HD2 (103)
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD3.png",Premier HD3 (103)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premier HD3 (103)
 http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD4.png",Premier HD4 (103)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premier HD4 (103)
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD5.png",Premier HD5 (103)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premier HD5 (103)
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",Premier HD1  (2121)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",Premier HD1  (2121)
 https://ip2121.com/web/truepremier1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD2.png",Premier HD2 (2121)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premier HD2 (2121)
 https://ip2121.com/web/truepremier2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD3.png",Premier HD3 (2121)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premier HD3 (2121)
 https://ip2121.com/web/truepremier3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD4.png",Premier HD4 (2121)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premier HD4 (2121)
 https://ip2121.com/web/truepremier4/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD5.png",Premier HD5 (2121)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premier HD5 (2121)
 https://ip2121.com/web/truepremier5/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.sine.tv/images/icon/TruePremierFootballHD1.png",True EPL HD1
+#EXTINF:-1 group-title="Sports"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png",True EPL HD1
 https://r3-sn-5fo-c37ed5.googleuservideo.com:443/thai88hd_m1/trueepl1_480p/chunks.m3u8
 
 
