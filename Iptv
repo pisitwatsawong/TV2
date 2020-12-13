@@ -482,13 +482,11 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_blue_ent.jpg",Blue Ant Entertainment
 https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Hi-Def1
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hi-def1/chunks.m3u8?nimblesessionid=14107596&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMCAzOjM5OjM5IFBNJmhhc2hfdmFsdWU9L1c2NVdNRitiZmx5L0ZXbmdjbExtUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",CHANNEL 8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
 https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",TVB ไทย
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB ไทย
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Mono 29
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://4.bp.blogspot.com/_O2ma-djc3Xg/TQ4PJohSmwI/AAAAAAAAB3w/W6qS3IK0vug/s320/hbo_hd.jpg",HBO (FHD)
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
