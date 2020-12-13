@@ -89,8 +89,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png" , TH: News1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="http://coathailand.org/wp-content/uploads/2014/04/ctb.jpg",  CTB
-http://vip.login.in.th:1935/CTB/CTB/chunklist_w503199585.m3u8
+
 #EXTINF:-1 group-title="Cable TV" tvg-logo="http://www.m-channel.com/M/img/logo.png", M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/23/d2/86/23d286dc-6ed4-da87-8939-9008df122376/source/256x256bb.jpg", TH:SABAIDEE TV
@@ -484,20 +483,26 @@ https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://banner2.cleanpng.com/20181113/ikc/kisspng-logo-television-channel-short-film-lifetime-tv-channel-website-related-keywords-amp-5beaf7d29a0ab2.640451841542125522631.jpg",Mono 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://4.bp.blogspot.com/_O2ma-djc3Xg/TQ4PJohSmwI/AAAAAAAAB3w/W6qS3IK0vug/s320/hbo_hd.jpg",HBO
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://4.bp.blogspot.com/_O2ma-djc3Xg/TQ4PJohSmwI/AAAAAAAAB3w/W6qS3IK0vug/s320/hbo_hd.jpg",HBO (FHD)
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO hit
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO hit (FHD)
 https://dootvgun.com/hbotv/hbohits/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://bannerhttps://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",Red by HBO
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://bannerhttps://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",Red by HBO (FHD)
 https://dootvgun.com/hbotv/hbored/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://4.bp.blogspot.com/_O2ma-djc3Xg/TQ4PJohSmwI/AAAAAAAAB3w/W6qS3IK0vug/s320/hbo_hd.jpg",HBO (HD)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
 
 #EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704638.jpeg" , Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE TV"tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg", Paramount Channel
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg", Thrill
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
 
-
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="http://coathailand.org/wp-content/uploads/2014/04/ctb.jpg",  CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w503199585.m3u8
 #EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png", BOX​ FILM
 https://cdn6.goprimetime.info/feed/LC52/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiml8PYs8q0L4SVluf-9JCqIFNopSN3t7qrQ&usqp=CAU", SUN
