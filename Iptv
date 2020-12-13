@@ -48,6 +48,18 @@ http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV
 http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png" , TH: News1
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/23/d2/86/23d286dc-6ed4-da87-8939-9008df122376/source/256x256bb.jpg", TH:SABAIDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="DLTV" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
 https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
@@ -83,80 +95,51 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple5/v4/cc/dc/d8/ccdcd8a5-303a-f30c-3aa1-d8f005256604/source/60x60bb.jpg", TH:Channel8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png" , TH: News1
-http://news1.live14.com/stream/news1_hi.m3u8
-
-#EXTINF:-1 group-title="Cable TV" tvg-logo="http://www.m-channel.com/M/img/logo.png", M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/23/d2/86/23d286dc-6ed4-da87-8939-9008df122376/source/256x256bb.jpg", TH:SABAIDEE TV
-http://stream.rs.co.th/sbd-hi/index.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", TH: CARTOON CLUB
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Mono_Plus.png", TH: Monoplus
-https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", TH: MONO29 HD
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061309.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640" ,Euronew NOW
 http://210.210.155.35/qwr9ew/s/s15/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",DW
+#EXTINF:-1 group-title="NEWS"  tvg-logo="http://www.4androidapk.com/data/programs/images/dw_76887.png",DW
 http://210.210.155.35/qwr9ew/s/s26/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",DW[D]
+#EXTINF:-1 group-title="NEWS"  tvg-logo="http://www.4androidapk.com/data/programs/images/dw_76887.png",DW[D]
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",DW[E]
+#EXTINF:-1 group-title="NEWS"  tvg-logo="http://www.4androidapk.com/data/programs/images/dw_76887.png",DW[E]
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",CCTV4
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/37_CCTV4.jpg",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",CGTN
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",CGTN
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",RussiaToday
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png",RussiaToday
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",TV5Monde
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://apac.tv5monde.com/assets/logos/tv5monde_apac.png",TV5Monde
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Aljazeera
-http://210.210.155.35/qwr9ew/s/s17/02.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",AL Jazeera English
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/220px-Al-jazeera-logo.jpg",Aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Al Jazaara
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",France 24
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/150px-FRANCE_24_logo.svg.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",CNN
-https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",BBC World News
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/04792c90-b551-11ea-8fac-236a281cd6c5_320.png",BBC World News
 http://160.119.77.116:8081/iptv/uk-bbc2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",CNBC
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F24%2Fe42a4c9b-b222-4c02-94a5-adda0d9373bb.png&w=320&h=240",CNBC
 http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",FOX News
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2013/01/fox-news-logo.jpg",FOX News
 http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Arirang
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://i.pinimg.com/564x/37/d5/cc/37d5cc2cb7cbfc852fcb2ee842b60813.jpg",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Rai News 24
+#EXTINF:-1 group="NEWS"  tvg-logo="https://www.rainews.it/dl/components/img/svg/RaiNewsBarra-logo.png",Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Fashion TV Paris
+
+#EXTINF:-1 group="NEWS"  tvg-logo="https://freevideos69.files.wordpress.com/2016/01/3de3c-fashion2btv.gif?w=289",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Fashion TV Midnite Secrets
+#EXTINF:-1 group="NEWS"  tvg-logo="https://freevideos69.files.wordpress.com/2016/01/3de3c-fashion2btv.gif?w=289",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",NTV News24
+#EXTINF:-1 group="NEWS"  tvg-logo="https://1.bp.blogspot.com/-skllT_hFUQk/WdibQxsVjCI/AAAAAAAAAYw/UpsWQHHBDe8B329iblwiWgtPZETzbzXhQCLcBGAs/s320/NTV%2BNews24.png",NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",RTHK TV 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",TV5 Monde Style
+
+#EXTINF:-1 group="NEWS"  tvg-logo="https://lh3.googleusercontent.com/k5sKVWtMJJaCqCDl28JMFREmuTLHKAlaUZN3ok_4yZjwtcAgARyp20SfJ7jmul8GTH4q=s90-no-tmp_tv5monde_asie_apk.jpg",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 group="NEWS"  tvg-logo="https://i.vimeocdn.com/portrait/21358532_640x640",TV5 Monde Pacifique
+#EXTINF:-1 group="NEWS"  tvg-logo="https://apac.tv5monde.com/assets/logos/tv5monde_apac.png",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
 
@@ -295,11 +278,11 @@ http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo-small.png",Sky Sports Racing
 http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",Golf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=320&h=240",Golf
 http://160.119.77.116:8081/iptv/hd-golf.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",Tennis
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/564x/97/82/eb/9782ebded924527be80816df1c7765ab.jpg",Tennis
 http://160.119.77.116:8081/iptv/hd-tennis.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",NBA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/564x/aa/c7/e0/aac7e0b3165c8c10cc472f65320c3b16.jpg",NBA
 http://160.119.77.116:8081/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",Bein-AR1
 http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
@@ -335,97 +318,93 @@ http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
 
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", Discovery Asia
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSI4V2QmYfAnjbVjpEYgeIPTt34K7LAG_Kgg&usqp=CAU", Discovery Asia
 http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", Discovery History
 http://160.119.77.116:8081/iptv/uk-discoveryhistory.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",, History hd
-http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",, H2
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png", H2
 http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", BBCearth
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png", BBCearth
 http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", BBClifestyle
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png", BBClifestyle
 http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",BBC 1
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-one.png",BBC 1
 http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",BBC 2
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-two.png",BBC 2
 http://160.119.77.116:8081/iptv/uk-bbc2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",BBC 3
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-three.png",BBC 3
 http://160.119.77.116:8081/iptv/uk-bbc3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",BBC 1 Scotland
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-four.png",BBC 1 Scotland
 http://160.119.77.116:8081/iptv/uk-citv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Channel 4
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Channel 4
 http://160.119.77.116:8081/iptv/uk-channel4hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",More 4
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-more.png",More 4
 http://160.119.77.116:8081/iptv/uk-more4.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",4Seven
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/47.png",4Seven
 http://160.119.77.116:8081/iptv/uk-4sevenhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",e4
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4e-channel.png",E4
 http://160.119.77.116:8081/iptv/uk-e4.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",5 Star
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5star.png",5 Star
 http://160.119.77.116:8081/iptv/uk-5star.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",5 USA
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5usa.png",5 USA
 http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CITV
-http://160.119.77.116:8081/iptv/uk-citv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Alibi
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/alibi.png",Alibi
 http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Challenge
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Challenge16.png/250px-Challenge16.png",Challenge
 http://160.119.77.116:8081/iptv/uk-challenge.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CBS Action
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/109_image.png",CBS Action
 http://160.119.77.116:8081/iptv/uk-cbsaction.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CBS Reality
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbs-reality.png",CBS Reality
 http://160.119.77.116:8081/iptv/uk-cbsreality.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CBS Drama
 http://160.119.77.116:8081/iptv/uk-cbsdrama.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Drama
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://media.info/i/lf/300/1405279643/1429.png",Drama
 http://160.119.77.116:8081/iptv/uk-drama.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Dave
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://res.cloudinary.com/uktv/image/upload/b_rgb:000000,w_880,h_495/v1502986844/exq5roo750p8qzvvc8ib.jpg",Dave
 http://160.119.77.116:8081/iptv/uk-dave.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Food Network UK
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/food-network-1.png",Food Network UK
 http://160.119.77.116:8081/iptv/uk-foodnetwork.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Gold
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gold.png",Gold
 http://160.119.77.116:8081/iptv/uk-gold.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Sky 1
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/220px-Sky_One_-_Logo_2020.png",Sky 1
 http://160.119.77.116:8081/iptv/uk-sky1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Sky Atlantic
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://digitalorchardgroup.com/wp-content/uploads/2017/06/Sky-atlantic-logo.jpg",Sky Atlantic
 http://160.119.77.116:8081/iptv/uk-skyatlantic.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",Sky Movies Premiere
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://i.pinimg.com/564x/d1/2c/b4/d12cb4f1a5bbe11effde08aee9928173.jpg",Sky Movies Premiere
 http://160.119.77.116:8081/iptv/uk-skypremiere.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",TV3 Uk
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3.png",TV3 Uk
 http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",3e Uk
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3e.png",3e Uk
 http://160.119.77.116:8081/iptv/ie-3e.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",RTE 1
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/150px-RT%C3%89_logo.svg.png",RTE 1
 http://160.119.77.116:8081/iptv/ie-rte1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",RTE 2
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/150px-RT%C3%89_logo.svg.png",RTE 2
 http://160.119.77.116:8081/iptv/ie-rte2.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", NatGeoHD
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png", NatGeoHD
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", NatGeo Wild
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/200px-National_Geographic_Wild_logo.svg.png", NatGeo Wild
 http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg", NatGeo People
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png", NatGeo People
 http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV6
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV6
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv6_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV7
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV7
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv7_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV8
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV8
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv8_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV10
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV10
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv10_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV11
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV11
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv11_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV12
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV12
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv12_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV13
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV13
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv13_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV14
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV14
 https://cctvakhwh5ca-cntv.akamaized.net/live/cctvchild_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV15
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV15
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv15_2/index.m3u8
-#EXTINF:-1 group-title="TV Channel" tvg-logo="https://image.shutterstock.com/image-vector/tv-channel-logo-template-600w-742332589.jpg",CCTV17
+#EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV17
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv17_2/index.m3u8
 
 
@@ -440,6 +419,10 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjgtWI-BLJ1Tgd9pkl0XelgiBN9JA_jcvVg&usqp=CAU", Foxfamily movie
 https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png", History hd
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5mk55O1pNa4CI7FsJr1OYw7evij6PJwGCg&usqp=CAU", Foxlife
 http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/270px-Fox_Crime_logo.svg.png", Foxcrime
@@ -456,14 +439,16 @@ http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI​ FILM
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",Cinemax
 https://dootvgun.com/hbotv/hbomax/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_hit.jpg",HIT
 https://www.livedoomovies.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_hit_mov.jpg",HIT movie
 https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-warnertv.png",Warner TV
-http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="MOVIE TV"  tvg-logo="https://www.ais.co.th/play/images/channel/ch_logo_blue_ext.jpg",Blue Ant Extreme
@@ -503,6 +488,8 @@ https://cdn6.goprimetime.info/feed/LC52/index.m3u8
 https://cdn6.goprimetime.info/feed/LC1/index.m3u8
 #EXTINF:-1 group-title="MOVIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgToEpmOYJ6ZNlyExadUm8ftY2U3YOF1etNA&usqp=CAU", SAMURAI
 https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="MOVIE TV" tvg-logo="http://www.m-channel.com/M/img/logo.png", M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 
 
 #EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4Zd9suho35AC6mZqG-k0UkHjcx6klmlykQ&usqp=CAU",  TOON​ CLUB
