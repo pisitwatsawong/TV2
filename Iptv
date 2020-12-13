@@ -8,6 +8,8 @@ http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
@@ -481,6 +483,8 @@ http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg", Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE TV"tvg-logo="https://i.vimeocdn.com/video/722791735_640.webp", ACTION Hollywood Movie
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE TV" tvg-logo="http://coathailand.org/wp-content/uploads/2014/04/ctb.jpg",  CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w503199585.m3u8
