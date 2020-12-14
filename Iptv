@@ -390,6 +390,9 @@ http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="http://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png", HTV-THETHAO
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Channel" tvg-logo="http://www.kmol.cz/KMOL/yt3.ggpht.com/-TlpMWJAqYHc/AAAAAAAAAAI/AAAAAAAAAAA/HYhmyrnj0SQ/s100-c-k-no/kbsworld_icon_for_googleplus.png",KBS WORLD
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV6
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv6_2/index.m3u8
 #EXTINF:-1 group-title="TV Channel" tvg-logo="https://news.mn/wp-content/uploads/2017/09/CCTV-810x500.jpg",CCTV7
