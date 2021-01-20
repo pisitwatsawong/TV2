@@ -64,7 +64,7 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 
 
 #EXTINF:-1 group-title="DLTV" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+https://dltv-live-edge.catcdn.cloud:443/dltv01_720p/index.m3u8
 #EXTINF:-1 group-title="DLTV" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV2 ประถมศึกษาปีที่ 2
 https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
 #EXTINF:-1 group-title="DLTV" tvg-logo="https://dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV3 ประถมศึกษาปีที่ 3
